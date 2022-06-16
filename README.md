@@ -9,3 +9,16 @@ Any broken elements were also fixed without changing the functionality and appea
 
 - [@Satorrid](https://github.com/Satorrid)
 
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+https://satorrid.github.io/horiseon-refactor/
+## Screenshots
+
+![horiseon-refactor](https://user-images.githubusercontent.com/106789746/174145983-a6e87b8b-156b-4cf8-8efa-b546e5583204.png)
